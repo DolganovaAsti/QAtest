@@ -1,2 +1,1 @@
-"# QAtest" 
 "# AstiQA" 
